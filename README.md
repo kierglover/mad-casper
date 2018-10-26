@@ -1,4 +1,4 @@
-# Casper
+# Official Mad-Casper Theme
 
 This is the custom [Ghost](http://github.com/tryghost/ghost/) theme for the [Mad](https://www.xn--md-via.com/) Creative Consultancy blog (Mäd Insights). Built on the default Ghost theme [Casper](https://github.com/TryGhost/Casper/releases).
 
@@ -11,4 +11,3 @@ This is the custom [Ghost](http://github.com/tryghost/ghost/) theme for the [Mad
 # Copyright & License
 
 Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE).
-# mad-casper
