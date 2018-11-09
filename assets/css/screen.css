@@ -275,6 +275,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     opacity: 1;
 }
 
+.nav-link-bold {
+    color: white;
+    padding: 12px;
+    font-weight: 800;
+}
+
 .site-nav-right {
     flex-shrink: 0;
     display: flex;
@@ -368,6 +374,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     }
     .site-nav-right {
         display: none;
+    }
+
+    .nav-link-bold {
+        margin-left: 11.5em;
     }
 }
 
