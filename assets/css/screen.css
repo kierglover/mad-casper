@@ -113,7 +113,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    background: #e3211a no-repeat 50%;
     background-size: cover;
 }
 
@@ -268,17 +268,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     padding: 10px 12px;
     color: #fff;
     opacity: 0.8;
+    text-transform: lowercase;
 }
 
 .nav li a:hover {
     text-decoration: none;
     opacity: 1;
-}
-
-.nav-link-bold {
-    color: white;
-    padding: 12px;
-    font-weight: 800;
 }
 
 .site-nav-right {
@@ -375,7 +370,6 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     .site-nav-right {
         display: none;
     }
-
     .nav-link-bold {
         margin-left: 11.5em;
     }
